@@ -1,5 +1,7 @@
+# Hey, I'm Eli Entelis <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+
 # 💫 About Me:
-🔭 I’m currently contributing to Github's [Runner](https://github.com/actions/runner) open-source project <br>👯 I’m looking to collaborate on everything and anything<br>💬 Ask me about TDD,  EDD, and anything related to DevOps.<br>⚡ Fun fact: I know how to pick locks.<br>📫 How to reach me: Email - elientelis1999@gmail.com
+⚒︎ Backend Developer. <br>🔭 I’m currently contributing to Github's [Runner](https://github.com/actions/runner) open-source project. <br>👯 I’m looking to collaborate on everything and anything.<br>💬 Ask me about TDD,  EDD, and anything related to DevOps.<br>⚡ Fun fact: I know how to pick locks.<br>📫 How to reach me: Email - elientelis1999@gmail.com
 
 
 ## 🌐 Socials:
